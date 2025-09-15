@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! My name is Quinton Martin, and I am currently double majoring in Computer Engineering and Computer Science at the University of Wisconsin-Madison and plan to grduate in May 2026. My primary interest is mixing software programming with the financial sector.
+
+On this personal account I may not have my most robust work, but it includes some of my personal interests. Significant projects I have worked on outside of this repo include the 60 pieces of work that I deployed to live production for Berkshire Hathaway Specialty Insurance. Among the code I have implemented at work I have also built many large projects during my time at UW Madison ranging from a 5 stage pipelined process for a Computer Architecture course to building a neural network in a Machine learning course.
+
+I recently concluded my third consecutive summer interning as a Software Engineer at Berkshire Hathaway and am beginning my senior year at UW-Madison. Among the programming classes I am enrolled at I also work as a IT Specialist for Wisconsin Athletics ensuring the proper distributiobtuoin of live statistics at major sporting events as well as give tech support at the help desk during the week for staff and students. I am very interested in pursuing a career in software engineering at a financial firm and the chance at even becoming a Trader one day. 
+
+Feel free to reach out on linkedin https://www.linkedin.com/in/quinton-martin-525345264/
+
