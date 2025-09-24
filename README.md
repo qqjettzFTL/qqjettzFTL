@@ -34,7 +34,7 @@ I’m a senior double-majoring in **Computer Engineering** and **Computer Scienc
 - **Fantasy sports trading bot** (Python + APIs) connecting finance + software interests.  
 
 ### 🛠️ Tech Skills
-C | C++ | Python | JavaScript/TypeScript | React | Node.js/Express | SQL | SystemVerilog | Docker | Git | Datadog  
+C | C++ | Python | JavaScript/TypeScript | Java | React | Node.js/Express | SQL | SystemVerilog | Docker | Git | Datadog | Postman | AWS  
 
 ### 📈 Career Goals
 I’m pursuing a career in **software engineering at a financial firm**, with long-term aspirations of becoming a **trader**.  
